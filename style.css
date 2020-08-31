@@ -1,0 +1,21 @@
+html{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body{
+	
+  	align-items: center;
+	text-align: center;
+	background: linear-gradient(to right, red , yellow);
+}
+h1{
+	font-family: 'Dancing Script', cursive;
+	text-shadow: 2px 2px white;
+	font-size: 72px;
+}
+textarea{
+	width: 400px;
+}
